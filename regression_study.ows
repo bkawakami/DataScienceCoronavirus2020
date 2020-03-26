@@ -25,7 +25,7 @@
 		<node id="21" name="Save Data" position="(731.0, 423.0)" project_name="Orange3" qualified_name="Orange.widgets.data.owsave.OWSave" title="Save Data (1)" version="" />
 		<node id="22" name="Data Table" position="(642.0, 496.0)" project_name="Orange3" qualified_name="Orange.widgets.data.owtable.OWDataTable" title="Data Table (1) (1)" version="" />
 		<node id="23" name="Random Forest" position="(48.0, 448.0)" project_name="Orange3" qualified_name="Orange.widgets.model.owrandomforest.OWRandomForest" title="Random Forest (1)" version="" />
-		<node id="24" name="Tree Viewer" position="(336.0, 230.0)" project_name="Orange3" qualified_name="Orange.widgets.visualize.owtreeviewer.OWTreeGraph" title="Tree Viewer (1)" version="" />
+		<node id="24" name="Tree Viewer" position="(340.0, 237.0)" project_name="Orange3" qualified_name="Orange.widgets.visualize.owtreeviewer.OWTreeGraph" title="Tree Viewer (1)" version="" />
 		<node id="25" name="Data Sampler" position="(14.0, 563.0)" project_name="Orange3" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" title="Data Sampler (1)" version="" />
 		<node id="26" name="Test and Score" position="(192.0, 576.0)" project_name="Orange3" qualified_name="Orange.widgets.evaluate.owtestlearners.OWTestLearners" title="Test and Score (1)" version="" />
 		<node id="27" name="Predictions" position="(356.0, 523.0)" project_name="Orange3" qualified_name="Orange.widgets.evaluate.owpredictions.OWPredictions" title="Predictions (1) (1)" version="" />
@@ -56,7 +56,7 @@
 		<node id="52" name="Random Forest" position="(-67.0, 1570.0)" project_name="Orange3" qualified_name="Orange.widgets.model.owrandomforest.OWRandomForest" title="Random Forest (1) (1) (1)" version="" />
 		<node id="53" name="Tree Viewer" position="(244.0, 1342.0)" project_name="Orange3" qualified_name="Orange.widgets.visualize.owtreeviewer.OWTreeGraph" title="Tree Viewer (1) (1) (1)" version="" />
 		<node id="54" name="Data Sampler" position="(-101.0, 1685.0)" project_name="Orange3" qualified_name="Orange.widgets.data.owdatasampler.OWDataSampler" title="Data Sampler (1) (1) (1)" version="" />
-		<node id="55" name="Test and Score" position="(77.0, 1698.0)" project_name="Orange3" qualified_name="Orange.widgets.evaluate.owtestlearners.OWTestLearners" title="Test and Score (1) (1) (1)" version="" />
+		<node id="55" name="Test and Score" position="(98.0, 1666.0)" project_name="Orange3" qualified_name="Orange.widgets.evaluate.owtestlearners.OWTestLearners" title="Test and Score (1) (1) (1)" version="" />
 		<node id="56" name="Predictions" position="(241.0, 1645.0)" project_name="Orange3" qualified_name="Orange.widgets.evaluate.owpredictions.OWPredictions" title="Predictions (1) (1) (1) (1)" version="" />
 		<node id="57" name="Data Table" position="(392.0, 1821.0)" project_name="Orange3" qualified_name="Orange.widgets.data.owtable.OWDataTable" title="Data Table (3) (1) (1) (1)" version="" />
 		<node id="58" name="File" position="(-296.0, 1432.0)" project_name="Orange3" qualified_name="Orange.widgets.data.owfile.OWFile" title="Italy Data" version="" />
@@ -3450,8 +3450,8 @@ ZYVxElJxE3NYCwAAAF9fdmVyc2lvbl9fcRRLAVgQAAAAY29udGV4dF9zZXR0aW5nc3EVXXEWdS4=
 </properties>
 		<properties format="pickle" node_id="48">gAN9cQAoWAsAAABhdXRvX2NvbW1pdHEBiFgOAAAAY29sb3JfYnlfY2xhc3NxAohYEgAAAGNvbnRy
 b2xBcmVhVmlzaWJsZXEDiFgOAAAAZGlzdF9jb2xvcl9SR0JxBChL3EvcS9xL/3RxBVgTAAAAc2F2
-ZWRXaWRnZXRHZW9tZXRyeXEGQ0IB2dDLAAMAAAAAAc0AAACmAAAG3gAABH8AAAHNAAAAvAAABt4A
-AAR/AAAAAAAAAAAKAAAAAc0AAAC8AAAG3gAABH9xB1gLAAAAc2VsZWN0X3Jvd3NxCIlYDQAAAHNl
+ZWRXaWRnZXRHZW9tZXRyeXEGQ0IB2dDLAAMAAAAAArYAAACvAAAHxwAABIgAAAK2AAAAxQAAB8cA
+AASIAAAAAAAAAAAKAAAAArYAAADFAAAHxwAABIhxB1gLAAAAc2VsZWN0X3Jvd3NxCIlYDQAAAHNl
 bGVjdGVkX2NvbHNxCV1xClgNAAAAc2VsZWN0ZWRfcm93c3ELXXEMWBUAAABzaG93X2F0dHJpYnV0
 ZV9sYWJlbHNxDYhYEgAAAHNob3dfZGlzdHJpYnV0aW9uc3EOiFgLAAAAX192ZXJzaW9uX19xD0sB
 WBAAAABjb250ZXh0X3NldHRpbmdzcRBdcREoY29yYW5nZXdpZGdldC5zZXR0aW5ncwpDb250ZXh0
